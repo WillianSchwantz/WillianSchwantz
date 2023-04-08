@@ -1,15 +1,7 @@
-### Hi there 👋
 
- Olá pessoal, tudo bem?
+## Olá! Eu sou o Willian Schwantz 🖐️
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=WillianSchwantz&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=WillianSchwantz&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=WillianSchwantz&show_icons=true" />
-</picture>
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianSchwantz&show_icons=true&theme=dracula&count_private=true)
+
+## Tecnologias que eu uso no meus estudos
+
