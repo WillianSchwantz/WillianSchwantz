@@ -8,7 +8,7 @@
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianSchwantz&show_icons=true&theme=dracula&count_private=true)
 
-## Tecnologias que eu uso no meus estudos 📚
+## Tecnologias que eu uso nos meus estudos 📚
 
 <div style= "display: inline_block"><br/>
 <img align="center" alt="Will" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
